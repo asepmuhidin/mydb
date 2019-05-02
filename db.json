@@ -1,0 +1,15 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "syaula"
+    },
+    {
+      "id": 2,
+      "nama": "fajar"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
